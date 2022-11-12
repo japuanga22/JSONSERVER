@@ -1,0 +1,71 @@
+
+ {
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Animais Fantasticos Os Segredos De Dumbledore",
+      "ano": 2022,
+      "roteiro": "J.K. Rowling",
+      "imagem": "foto.jpg",
+      "produtoraId": 1
+    },
+    {
+        "id": 2,
+        "titulo": "SONIC 2",
+        "roteiro":"Patrick Casey",
+        "ano": 2022,
+        "imagem": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2022/04/poster-de-sonic-2-2022-1.jpg",
+        "produtoraId": 2   
+    },
+    {
+        "id": 3,
+        "titulo": "A Lista de Schindler",
+        "roteiro":"Steven zaillian",
+        "ano": 1993,
+        "imagem": "https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2020/07/0.jpg",
+        "produtoraId": 3  
+    },
+    {
+        "id": 4,
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "roteiro":"J.K. Rowling",
+        "ano": 2001,
+        "imagem": "https://1.bp.blogspot.com/-ule1GHid68A/YYQXp5oNSrI/AAAAAAADnF8/Iefel_Kic2coUMGDXZORh-vojprV7rrtACLcBGAsYHQ/w640-h359/HarryPottereaPedraFilosofal-FilmeEmModoMagico2021-HBOMAX.jpg",
+        "produtoraId": 1  
+    },
+    {
+        "id": 5,
+        "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+        "roteiro":"J.K. Rowling",
+        "ano": 2004,
+        "imagem": "https://img.elo7.com.br/product/main/2657A05/big-poster-harry-potter-e-o-prisioneiro-de-azkaban-lo2-90x60-geek.jpg",
+        "produtoraId": 1 
+    },
+    {
+        "id": 6,
+        "titulo": "Universo de Steven",
+        "roteiro":"Zach Callison",
+        "ano": 2019,
+        "imagem": "https://hbomax-images.warnermediacdn.com/images/GXbGBEw3y6pGYoAEAAAVc/tileburnedin?size=1280x720&partner=hbomaxcom&v=1c266780ce674eec3be2142a5667c37c&host=art-gallery.api.hbo.com&language=pt-br&w=1280",
+        "produtoraId": 4  
+    }
+  ],
+  "produtoras": [
+    {
+        "id": 1,
+        "nome" : "Wanner bros."
+    },
+    {
+        "id": 2,
+        "nome": "Paramount Pictures Studios"
+    },
+    {
+        "id": 3,
+        "nome": "Universal Pictures"
+    },
+    {
+        "id": 4,
+        "nome": "Cartoon Network"
+    }
+  ]
+ }
